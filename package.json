@@ -1,0 +1,29 @@
+{
+  "name": "shompiflen",
+  "version": "1.0.0",
+  "description": "Bot especifico para la Guild Exiliados",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shompi/shompiflen.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "discordjs",
+    "javascript",
+    "js"
+  ],
+  "author": "Felipe Aguilera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shompi/shompiflen/issues"
+  },
+  "homepage": "https://github.com/Shompi/shompiflen#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
