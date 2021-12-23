@@ -1,4 +1,4 @@
-# ShompiFen Discord Bot
+# ShompiFlen Discord Bot
 
 ## Descripción:
 No se me ocurre nada.
